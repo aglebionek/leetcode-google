@@ -17,3 +17,5 @@ Each folder contains a solution.py file which contains just the solution, testca
 | 10 | Regular Expression Matching                    | Hard       |                      |                     |            |           |
 | 11 | Container With Most Water                      | Medium     |                      |                     |            |           |
 | 12 | Integer to Roman                               | Medium     | 53ms (26.79)         | 16.50MB (94.40)     | 01.05.2024 | Improve?  |
+| 13 | Roman to Integer                               | Easy       | 39ms (89.16)         | 16.48MB (97.31)     | 02.05.2024 |           |
+| 14 | Longest Common Prefix                          | Easy       | 36ms (69.43)         | 16.54MB (89.95)     | 02.05.2024 |           |
