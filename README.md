@@ -1,4 +1,4 @@
-This repo is used to store my solutions code and stats for leetcode's top 50 google interview questions https://leetcode.com/problem-list/top-google-questions/
+This repo is used to store my solutions code and stats for leetcode problems from https://leetcode.com/problemset/. The solutions are written in Python3.
 
 Each folder contains a solution.py file which contains just the solution, testcases.py which runs the solution with 3 example cases from leetcode (to be added), and README.md with the question and leetcode stats for the solution.
 
@@ -15,7 +15,14 @@ Each folder contains a solution.py file which contains just the solution, testca
 | 8  | String to Integer (atoi)                       | Medium     | 31ms (90.65)         | 16.58MB (78.93)     | 29.04.2024 |           |
 | 9  | Palindrome Number                              | Easy       | 46ms (85.18)         | 16.59MB (64.44)     | 30.04.2024 | Follow-up |
 | 10 | Regular Expression Matching                    | Hard       |                      |                     |            |           |
-| 11 | Container With Most Water                      | Medium     |                      |                     |            |           |
+| 11 | Container With Most Water                      | Medium     | 95ms (75.26)         | 28.40MB (90.34)     | 11.12.2025 |           |
 | 12 | Integer to Roman                               | Medium     | 53ms (26.79)         | 16.50MB (94.40)     | 01.05.2024 | Improve?  |
 | 13 | Roman to Integer                               | Easy       | 39ms (89.16)         | 16.48MB (97.31)     | 02.05.2024 |           |
 | 14 | Longest Common Prefix                          | Easy       | 36ms (69.43)         | 16.54MB (89.95)     | 02.05.2024 |           |
+| 15 | 3Sum                                           | Medium     |                      |                     |            |           |
+| 16 | 3Sum Closest                                   | Medium     |                      |                     |            |           |
+| 17 | Letter Combinations of a Phone Number          | Medium     |                      |                     |            |           |
+| 18 | 4Sum                                           | Medium     |                      |                     |            |           |
+| 19 | Remove Nth Node From End of List               | Medium     |                      |                     |            |           |
+| 20 | Valid Parentheses                              | Easy       |                      |                     |            |           |
+| 21 | Merge Two Sorted Lists                         | Easy       | 26ms (98.89)         | 16.53MB (26.92)     | 01.08.2024 | Improve   |
